@@ -48,7 +48,7 @@ Crtl + F를 누른 후
 
 * 저장과 불러오기 경로가 같아야합니다.
 
-## 6. 실행결과
+## 6. 실행결과 (이미지 클릭 시 링크 이동)
 
 [![1](http://img.youtube.com/vi/OE3fk90Qfpc/0.jpg)](https://youtu.be/OE3fk90Qfpc?t=0s)
 
